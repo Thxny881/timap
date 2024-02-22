@@ -6,5 +6,10 @@ Tools need:
   Waybackurls
   Uro
   GF
-How to Install:
+  
+  
+  How to Install:
+  
+    1.Click in the file timap.sh
+    2.
   
