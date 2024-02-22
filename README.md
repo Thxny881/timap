@@ -1,8 +1,10 @@
-TIMAP is a script that automatize the SSTI attack using known tools.
+TIMAP is a script that automatize the SSTI AND CSTI attack using known tools.
 
-needs:
-TInjA 
-Subfinder
-Waybackurls
-Uro
-GF
+Tools need:
+  TInjA 
+  Subfinder
+  Waybackurls
+  Uro
+  GF
+How to Install:
+  
